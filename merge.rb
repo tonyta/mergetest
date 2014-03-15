@@ -1,5 +1,5 @@
 def method1
-  # do nothing
+  "# do nothing"
 end
 
 def method2
